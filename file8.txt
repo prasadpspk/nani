@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+it is a software file
+=======
+it is a hardware file
+>>>>>>> feature2
